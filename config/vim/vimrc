@@ -1,0 +1,10 @@
+  1 filetype plugin on
+  2 syntax on
+  3 set number
+  4 filetype plugin indent on
+  5 " show exist tab with 4 spaces width
+  6 set tabstop=4
+  7 " when indenting with '>', use 4 spaces width
+  8 set shiftwidth=4
+  9 " on pressing tab, insert 4 spaces
+ 10 set expandtab
